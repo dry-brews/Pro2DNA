@@ -9,6 +9,8 @@ Some important notes:
 
 usage: python Pro2DNA.py -i <my_protein_seq.fasta> -o <my_DNA_seq.fasta>
 
-The only notable dependency is biopython, which can be installed with \\
-pip install Bio \\
+The only notable dependency is biopython, which can be installed with
+
+pip install Bio
+
 To run Pro2DNA, you must have DNA_tools.py in the same directory
